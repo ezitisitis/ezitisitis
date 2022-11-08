@@ -1,4 +1,4 @@
-# Hi, I'm @ezitisitis (Marks Bogdanovs)
+# Hi, I'm [@ezitisitis](https://github.com/ezitisitis) (Marks Bogdanovs)
 
 ## Projects
 
