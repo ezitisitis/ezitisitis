@@ -4,6 +4,10 @@
 
 ### My
 
+List of my open-source and not so open-source projects and packages
+
+- [It Changed](https://www.itchanged.dev)- Roadmap and Customer Feedback management platform.
+
 ### I support
 
 Further you can find a list of someones projects which I support.
@@ -21,6 +25,8 @@ Further you can find a list of someones projects which I support.
 ## Sponsor
 
 ## Hobbies
+
+- Photography
 
 ### Anime
 
