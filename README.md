@@ -6,7 +6,10 @@
 
 List of my open-source and not so open-source projects and packages
 
-- [It Changed](https://www.itchanged.dev)- Roadmap and Customer Feedback management platform.
+- [Open Graph Help](https://www.opengraph.help)- Open Graph checker;
+- [It Changed](https://www.itchanged.dev)- Roadmap and Customer Feedback management platform;
+- [Glifo](https://www.glifo.io)- Knowledge Management Platform;
+- [Brand Library](https://www.brandlibrary.io)- Brand material directory;
 
 ### I support
 
